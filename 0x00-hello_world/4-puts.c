@@ -1,11 +1,9 @@
 #include <stdio.h>
-/**
- *  main - Entry point
- *
- *  Return: Always 0 (success)
- */
-int main(void)
-{
-	puts("\"programming is like building a multilingual puzzle");
-	return (0):
+
+int main() {
+    /* Print the message using the puts function */
+    puts("\"Programming is like building a multilingual puzzle");
+
+    /* Return 0 to indicate successful execution */
+    return (0);
 }
