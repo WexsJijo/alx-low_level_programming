@@ -5,7 +5,7 @@
  * @c: The character to be checked if digit.
  * Return: (1) if c is a character, (0) otherwise.
  */
-int _isupper(int c)
+int _isdigit(int c)
 {
 	if (c >= '0' && c <= '9')
 	{
